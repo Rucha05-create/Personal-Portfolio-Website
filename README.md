@@ -50,7 +50,7 @@ This portfolio acts as my **online resume**, providing a detailed overview of my
 
 ## 🌐 Live Website
 
-`https://YOUR_USERNAME.github.io/rucha-portfolio/`
+https://github.com/Rucha05-create/Personal-Portfolio-Website
 
 ## 👩‍💻 Author
 
